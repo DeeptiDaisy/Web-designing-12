@@ -29,3 +29,8 @@ In style.css file i write all the code for the styling .
 ![image](https://user-images.githubusercontent.com/109961309/183288242-68bb20e1-053e-4cbd-9240-e447db8444f1.png)
 
 # [MY portfolio website](https://deeptiportfolio-websites.netlify.app/)
+
+In mobile or smaller device it will look as:-
+
+![image](https://user-images.githubusercontent.com/109961309/188495556-3c99c122-2392-484d-ab04-0bedfcc6520c.png)
+
